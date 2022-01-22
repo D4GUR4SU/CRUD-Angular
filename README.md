@@ -6,7 +6,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/angular-v13.1.0-green">
     <img src="https://img.shields.io/badge/npm-v16.13.2-green">
-    <img src="https://img.shields.io/badge/typescrypt-v-green">
+    <img src="https://img.shields.io/badge/typescrypt-v4.5.5-green">
   </p>
   
   <p align="center">
@@ -52,7 +52,7 @@ $ git clone https://github.com/Dagurasu56/crud-angular
 # Acesse a pasta do projeto no terminal/cmd
 $ cd README-c
 # Vá para a pasta da aplicação Back End
-$ cd crud
+$ cd crud/server
 # Instale as dependências
 $ npm install
 # Execute a aplicação
@@ -67,7 +67,7 @@ $ git clone https://github.com/Dagurasu56/crud-angular
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd README-c
 # Vá para a pasta da aplicação Front End
-$ cd web
+$ cd crud/web
 # Instale as dependências
 $ npm install
 # Execute a aplicação em modo de desenvolvimento
@@ -99,7 +99,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="#">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHGtVajM70qHA/profile-displayphoto-shrink_200_200/0/1642620063832?e=1648080000&v=beta&t=CKJ3Hd7Hlw55y24Gx8jyKoVPguDGx6tbiJ1T13HKyBQ" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/50157211?s=120&v=4" width="100px;" alt=""/>
  <br />
 
 Feito por Douglas Souza 👋🏽 Entre em contato!

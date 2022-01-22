@@ -21,7 +21,7 @@
 
 ## 💻 Sobre o projeto
 
-  - Mantido pela gigante da tecnologia Google, o Angular 13 é um dos principais frameworks frontend do mercado!
+  - Mantido pela gigante da tecnologia Google, o Angular é um dos principais frameworks frontend do mercado!
 
 ---
 

@@ -4,9 +4,11 @@
   <br>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/angular-v13.1.0-green">
-    <img src="https://img.shields.io/badge/npm-v16.13.2-green">
-    <img src="https://img.shields.io/badge/typescrypt-v4.5.5-green">
+    <img src="https://img.shields.io/badge/node-v16.13.2-green">
+    <img src="https://img.shields.io/badge/npm-v8.1.2-orange">
+    <img src="https://img.shields.io/badge/web-angular-blue">
+    <img src="https://img.shields.io/badge/server-nodejs-purple">
+    <img src="https://img.shields.io/badge/</>-Typescript-blue">
   </p>
   
   <p align="center">

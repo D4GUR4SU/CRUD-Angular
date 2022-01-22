@@ -1,13 +1,13 @@
-  <p align="center">
-    <img src="https://img.shields.io/badge/npm-v16.13.2-blue">
-    <img src="https://img.shields.io/github/issues/Dagurasu56/crud-angular">
-    <img src="https://img.shields.io/github/forks/Dagurasu56/crud-angular">
-    <img src="https://img.shields.io/github/stars/Dagurasu56/crud-angular">
-  </p>
-
   <h4 align="center"> 
     🚧  CRUD Angular 9🚀 Em construção...  🚧
   </h4>
+  <br>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/angular-v9-green">
+    <img src="https://img.shields.io/badge/npm-v16.13.2-green">
+    <img src="https://img.shields.io/badge/typescrypt-v-green">
+  </p>
   
   <p align="center">
      <a href="#-sobre-o-projeto">Sobre</a> •
@@ -48,24 +48,22 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Dagurasu56/crud-angular>
-
+$ git clone https://github.com/Dagurasu56/crud-angular
 # Acesse a pasta do projeto no terminal/cmd
+$ cd README-c
+# Vá para a pasta da aplicação Back End
 $ cd crud
-
 # Instale as dependências
 $ npm install
-
 # Execute a aplicação
 $ npm start
-
-# O servidor inciará na porta:3001 - acesse <http://localhost:3001>
+# O servidor inciará na porta:3001 - acesse http://localhost:3001
 ```
 #### 🧭 Rodando a aplicação web (Frontend)
 
 ```bash
-# Clone este repositório https://github.com/Dagurasu56/crud-angular
-$ git clone 
+# Clone este repositório 
+$ git clone https://github.com/Dagurasu56/crud-angular
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd README-c
 # Vá para a pasta da aplicação Front End
@@ -73,17 +71,9 @@ $ cd web
 # Instale as dependências
 $ npm install
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+$ npm start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
-
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Node.js](https://nodejs.org/en/)
-- [Angular](https://angular.io/cli)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## 🛠 Tecnologias
 
@@ -108,17 +98,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 ---
 
-<a href="https://www.linkedin.com/in/dagurasujava/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/50157211?v=4" width="100px;" alt=""/>
+<a href="#">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHGtVajM70qHA/profile-displayphoto-shrink_200_200/0/1642620063832?e=1648080000&v=beta&t=CKJ3Hd7Hlw55y24Gx8jyKoVPguDGx6tbiJ1T13HKyBQ" width="100px;" alt=""/>
  <br />
 
-Feito com ❤️ por Douglas Souza 👋🏽 Entre em contato!
+Feito por Douglas Souza 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Douglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagurasujava/)](https://www.linkedin.com/in/dagurasujava/) 
 [![Gmail Badge](https://img.shields.io/badge/-contini.ds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contini.ds@gmail.com)](mailto:contini.ds@gmail.com)
  
 ---
-  
+
 ##  Versões do README
 
 [Português 🇧🇷](./README.md) 

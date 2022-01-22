@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teclado Mecânico",
+      "price": 450.9
+    },
+    {
+      "id": 2,
+      "name": "Mouse Gamer",
+      "price": 599.9
+    },
+    {
+      "id": 3,
+      "name": "Headset Gamer",
+      "price": 899.9
+    },
+    {
+      "name": "Notebook Gamer",
+      "price": 5999.90,
+      "id": 4
+    }
+  ]
+}

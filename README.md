@@ -1,10 +1,10 @@
   <h4 align="center"> 
-    🚧  CRUD Angular 9🚀 Em construção...  🚧
+    🚧  CRUD Angular 13🚀 Em construção...  🚧
   </h4>
   <br>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/angular-v9-green">
+    <img src="https://img.shields.io/badge/angular-v13.1.0-green">
     <img src="https://img.shields.io/badge/npm-v16.13.2-green">
     <img src="https://img.shields.io/badge/typescrypt-v-green">
   </p>
@@ -19,7 +19,7 @@
 
 ## 💻 Sobre o projeto
 
-  - Mantido pela gigante da tecnologia Google, o Angular 9 é um dos principais frameworks frontend do mercado!
+  - Mantido pela gigante da tecnologia Google, o Angular 13 é um dos principais frameworks frontend do mercado!
 
 ---
 

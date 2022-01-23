@@ -1,16 +1,17 @@
+import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { Product } from './../product.model';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 import { ProductService } from '../product.service';
 
 @Component({
-  selector: 'app-product-update',
-  templateUrl: './product-update.component.html',
-  styleUrls: ['./product-update.component.css']
+  selector: 'app-product-delete',
+  templateUrl: './product-delete.component.html',
+  styleUrls: ['./product-delete.component.css']
 })
-export class ProductUpdateComponent implements OnInit {
+export class ProductDeleteComponent implements OnInit {
 
-  product!: Product;
+  product!: Product
 
   constructor(
     private productService: ProductService,
@@ -19,7 +20,7 @@ export class ProductUpdateComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    const id = this.route.snapshot.paramMap.get("id")!
+    const id = this.route.snapshot.paramMap.get('id')
     if (id) {
       this.productService.readById(id).subscribe(product => {
         this.product = product
@@ -27,9 +28,9 @@ export class ProductUpdateComponent implements OnInit {
     }
   }
 
-  updateProduct(): void {
-    this.productService.update(this.product).subscribe(() => {
-      this.productService.showMessage('Product successfully updated!')
+  deleteProduct(): void {
+   this.productService.delete(this.product).subscribe(() => {
+      this.productService.showMessage('Product successfully deleted!')
       this.router.navigate(['/products'])
     });
   }
@@ -38,3 +39,4 @@ export class ProductUpdateComponent implements OnInit {
     this.router.navigate(['/products'])
   }
 }
+

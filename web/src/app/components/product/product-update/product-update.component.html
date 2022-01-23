@@ -5,11 +5,11 @@
             <input matInput placeholder="Name" [(ngModel)]="product.name" name="name">
         </mat-form-field>
         <mat-form-field>
-            <input matInput placeholder="Price (US$)" [(ngModel)]="product.price" name="price">
+            <input matInput placeholder="Price" [(ngModel)]="product.price" name="price">
         </mat-form-field>
     </form>
     <button mat-raised-button (click)="updateProduct()" color="accent">
-        Save
+        Update
     </button>
 
     <button mat-raised-button (click)="cancel()" color="primary">

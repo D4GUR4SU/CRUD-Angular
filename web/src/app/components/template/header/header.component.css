@@ -7,6 +7,7 @@
     display: flex;
     align-items: center;
     text-decoration: none;
+    color: #40A1BF;
 }
 
 .header .logo {
@@ -17,6 +18,6 @@
     padding-left: 25px;
 }
 
-.header .title-group i{
+.header .title-group i {
     padding-left: 5px;
 }

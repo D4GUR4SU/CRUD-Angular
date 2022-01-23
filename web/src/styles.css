@@ -1,5 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
-
+@import '@angular/material/prebuilt-themes/pink-bluegrey.css';
 html,
 body {
     height: 100%;
@@ -12,6 +11,10 @@ body {
 
 .red {
     color: rgb(227, 94, 107);
+}
+
+.blueTheme {
+    color: #40A1BF;
 }
 
 .v-middle {

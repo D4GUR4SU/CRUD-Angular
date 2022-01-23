@@ -28,7 +28,7 @@
 ## ⚙️ Funcionalidades
   
 - [ ] Consulta de produtos
-- [ ] Cadastro de produtos
+- [x] Cadastro de produtos
 - [ ] Atualização de produtos
 - [ ] Exclusão de produtos
 

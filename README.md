@@ -29,7 +29,7 @@
   
 - [x] Consulta de produtos
 - [x] Cadastro de produtos
-- [ ] Atualização de produtos
+- [x] Atualização de produtos
 - [ ] Exclusão de produtos
 
 ## 🚀 Como executar o projeto

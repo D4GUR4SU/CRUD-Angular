@@ -1,5 +1,5 @@
   <h4 align="center"> 
-    🚧  CRUD Angular 13🚀 Em construção...  🚧
+    🚧  CRUD Angular 13🚀 Concluído 🚧
   </h4>
   <br>
 
@@ -30,7 +30,7 @@
 - [x] Consulta de produtos
 - [x] Cadastro de produtos
 - [x] Atualização de produtos
-- [ ] Exclusão de produtos
+- [x] Exclusão de produtos
 
 ## 🚀 Como executar o projeto
 

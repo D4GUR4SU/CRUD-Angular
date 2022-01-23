@@ -1,24 +1,23 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Teclado Mecânico",
-      "price": 450.9
-    },
-    {
-      "id": 2,
-      "name": "Mouse Gamer",
-      "price": 599.9
-    },
-    {
-      "id": 3,
-      "name": "Headset Gamer",
-      "price": 899.9
-    },
-    {
-      "name": "Notebook Gamer",
-      "price": 5999.90,
-      "id": 4
-    }
-  ]
+    "products": [{
+            "id": 1,
+            "name": "Mechanic keyboard",
+            "price": 450.9
+        },
+        {
+            "id": 2,
+            "name": "Gaming Mouse",
+            "price": 599.9
+        },
+        {
+            "id": 3,
+            "name": "Gaming Headset",
+            "price": 899.9
+        },
+        {
+            "name": "Gaming Notebook",
+            "price": 5999.9,
+            "id": 4
+        }
+    ]
 }

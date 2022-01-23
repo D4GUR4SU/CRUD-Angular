@@ -4,6 +4,10 @@
   <br>
 
   <p align="center">
+    <img src="web/src/assets/img/banner.png">
+  </p>
+
+  <p align="center">
     <img src="https://img.shields.io/badge/node-v16.13.2-green">
     <img src="https://img.shields.io/badge/npm-v8.1.2-orange">
     <img src="https://img.shields.io/badge/web-angular-blue">
